@@ -15,7 +15,7 @@ const ContactUs =  () => {
 		}
 		nameRef.current.value = emailRef.current.value = numberRef.current.value = "";
 		
-		const response = await axios.post('https://ecomreact-f6774-default-rtdb.firebaseio.com/contact.json', obj);
+		const response = await axios.post('https://crudcrud.com/api/f5342ceca40f406c8a8c2097cfdcbc85/contact.json', obj);
 		console.log(response);
 		
 	}
