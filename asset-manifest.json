@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/EccomerceBootStrap/static/css/main.b94016ef.css",
+    "main.js": "/EccomerceBootStrap/static/js/main.14559f1d.js",
+    "static/media/Hero.gif": "/EccomerceBootStrap/static/media/Hero.68f2894958bd1406d9f3.gif",
+    "static/media/sanji2.gif": "/EccomerceBootStrap/static/media/sanji2.63b8708fe7e820d6ca6d.gif",
+    "static/media/footerImg.png": "/EccomerceBootStrap/static/media/footerImg.bc8599599c4c08ee0fdb.png",
+    "static/media/Sanji.gif": "/EccomerceBootStrap/static/media/Sanji.58a11b6f39d76d8c6727.gif",
+    "static/media/footer1.jpeg": "/EccomerceBootStrap/static/media/footer1.a0d58eb3d6dad6069b5d.jpeg",
+    "static/media/heroImage.jpg": "/EccomerceBootStrap/static/media/heroImage.c3cb23a0a69538ef341e.jpg",
+    "index.html": "/EccomerceBootStrap/index.html",
+    "main.b94016ef.css.map": "/EccomerceBootStrap/static/css/main.b94016ef.css.map",
+    "main.14559f1d.js.map": "/EccomerceBootStrap/static/js/main.14559f1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b94016ef.css",
+    "static/js/main.14559f1d.js"
+  ]
+}
