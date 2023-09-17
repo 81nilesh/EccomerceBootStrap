@@ -18,9 +18,9 @@ const Footer = () => {
 							Balaghat,Madhya Pradesh
 						</p>
 						<p>Balaghat-481001</p>
-						<p>Phone: +91 7999545311</p>
+						<p>Phone: +91 9399243991</p>
 						<p>Email</p>
-						<p>chandubopche321@gmail.com</p>
+						<p>choudharynilesh9575@gmail.com</p>
 					</div>
 				</div>
 				<div>
