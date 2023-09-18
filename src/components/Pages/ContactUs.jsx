@@ -15,7 +15,7 @@ const ContactUs =  () => {
 		}
 		nameRef.current.value = emailRef.current.value = numberRef.current.value = "";
 		
-		const response = await axios.post('https://crudcrud.com/api/f5342ceca40f406c8a8c2097cfdcbc85/contact', obj);
+		const response = await axios.post('https://crudcrud.com/api/22bef8e43d8b4f12b503b513a26d088c/contact', obj);
 		console.log(response);
 		
 	}

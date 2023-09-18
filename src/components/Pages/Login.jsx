@@ -19,7 +19,7 @@ const Login = () => {
             if (login) {
                 console.log('login being called')
                 setSendingReq(true);
-                const response = await axios.post(`https://crudcrud.com/api/f5342ceca40f406c8a8c2097cfdcbc85/users`, obj);
+                const response = await axios.post(`https://crudcrud.com/api/22bef8e43d8b4f12b503b513a26d088c/users`, obj);
                 setSendingReq(false);
                 setAlertSeverity('success');
                 console.log(response)
@@ -37,7 +37,7 @@ const Login = () => {
             else {
                 console.log('signup being called');
                 setSendingReq(true);
-                const response = await axios.post(`https://crudcrud.com/api/f5342ceca40f406c8a8c2097cfdcbc85/users`, obj);
+                const response = await axios.post(`https://crudcrud.com/api/22bef8e43d8b4f12b503b513a26d088c/users`, obj);
                 setAlertSeverity('success');
                 setAlertMsg(response.data.msg);
                 setSendingReq(false);
